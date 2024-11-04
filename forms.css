@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: gray;
+}
+form{
+    background-color: white;
+    text-align: left;
+width: 300px;
+margin: auto;
+border-radius: 5%;
+border-color: black;
+}
+input{
+    display:block;
+    width: 100%;
+}
